@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.djamware.ionic4fcm" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.notifium.tester" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Ionic 4 FCM</name>
     <description>Ionic 4 FCM Tutorial Example</description>
     <author email="didin@djamware.com" href="https://www.djamware.com">Djamware Team</author>
