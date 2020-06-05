@@ -37,9 +37,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:389317955097:android:d7249efa15c0152e98a488",
+        "mobilesdk_app_id": "1:389317955097:android:e5ef0f91d58bcbd798a488",
         "android_client_info": {
-          "package_name": "io.appery.project675711"
+          "package_name": "com.notifium.tester"
         }
       },
       "oauth_client": [
